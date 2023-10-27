@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pietdevis017
 - 👀 I’m interested in MSFS mods
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++
 -
 
 
